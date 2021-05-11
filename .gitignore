@@ -232,4 +232,5 @@ TSWLatexianTemp*
 # standalone packages
 *.sta
 
-
+# output git file.
+*.gif
